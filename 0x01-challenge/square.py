@@ -4,7 +4,7 @@ square module
 """
 
 
-class Square:
+class Square():
 
     """square class"""
     width = 0
